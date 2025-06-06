@@ -21,7 +21,7 @@ Build a client-side authentication system with React + TypeScript featuring two 
 ## 🚀 Getting Started
 
 1. **DO NOT fork** the template repository
-2. Create your **personal private repository** and copy the template code
+2. Create your **standalone repository** and copy the template code
 3. Develop your solution (unlimited commits allowed)
 4. We'll review and run your code in our GitLab CI
 
@@ -83,7 +83,6 @@ All endpoints, schemas, and response codes must match the specification.
 - ✅ Smart input on `/auth` (detects email vs. code)
 - ✅ Email validation + code length validation
 - ✅ Responsive layout (mobile ≥ 320px)
-- ✅ All npm scripts pass + green CI
 
 ### $150 — Quality Implementation
 All above requirements **plus:**
@@ -102,7 +101,7 @@ All above requirements **plus:**
 3. **TypeScript usage** — proper typing, minimal `any`
 4. **Test coverage** — readable, meaningful tests
 5. **UX details** — focus management, accessibility, responsiveness
-6. **CI status** — all checks must pass
+6. **CI status** — all required checks must pass
 
 ## 💳 Payment Terms
 
