@@ -65,7 +65,7 @@ build-job:
   - unit-test-job
   image: node:${NODE_VERSION}
   script:
-  - cp .env.example .env
+  - cp .example 
   - npm run build
   artifacts:
     paths:
